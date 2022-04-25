@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-25T14:54:28.157Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="jnsiuLUIEP8ODfCeARd4" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-25T15:01:15.027Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="UhoX01q9OUuCuGTCFV2R" version="17.4.6" type="github">
   <diagram id="Lk_EI4CYU3kLC5U5zO_d" name="Page-1">
     <mxGraphModel dx="1038" dy="553" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -18,7 +18,7 @@
         <mxCell id="JeV1txEWlBGmem2Ouphh-6" value="UT NON REGISTRATO" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="40" y="160" width="160" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="MB48RITWyxrm8_n9HD4J-8" value="- id univoco sessione" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="JeV1txEWlBGmem2Ouphh-6">
+        <mxCell id="MB48RITWyxrm8_n9HD4J-8" value="- id univoco sessione" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;shadow=0;" vertex="1" parent="JeV1txEWlBGmem2Ouphh-6">
           <mxGeometry y="30" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="JeV1txEWlBGmem2Ouphh-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="JeV1txEWlBGmem2Ouphh-8" target="JeV1txEWlBGmem2Ouphh-2" edge="1">
@@ -37,7 +37,7 @@
             <mxRectangle x="240" y="160" width="180" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MB48RITWyxrm8_n9HD4J-2" value="&lt;br&gt;- nome&lt;br&gt;- cognome&lt;br&gt;- data di nascita&lt;br&gt;- sesso&lt;br&gt;- email&lt;br&gt;- numero di telefono&lt;br&gt;- metodo di pagamento&lt;br&gt;- password&lt;br&gt;- id univoco&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="JeV1txEWlBGmem2Ouphh-8">
+        <mxCell id="MB48RITWyxrm8_n9HD4J-2" value="- nome&lt;br&gt;- cognome&lt;br&gt;- data di nascita&lt;br&gt;- sesso&lt;br&gt;- email&lt;br&gt;- numero di telefono&lt;br&gt;- metodo di pagamento&lt;br&gt;- password&lt;br&gt;- id univoco&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="JeV1txEWlBGmem2Ouphh-8">
           <mxGeometry y="30" width="160" height="153" as="geometry" />
         </mxCell>
         <mxCell id="JeV1txEWlBGmem2Ouphh-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="JeV1txEWlBGmem2Ouphh-9" target="JeV1txEWlBGmem2Ouphh-2" edge="1">
@@ -49,17 +49,17 @@
         <mxCell id="JeV1txEWlBGmem2Ouphh-9" value="RECEPTIONIST" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="440" y="160" width="160" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="MB48RITWyxrm8_n9HD4J-6" value="- nome&lt;br&gt;- cognome&lt;br&gt;- data di nascita&lt;br&gt;- sesso&lt;br&gt;- email&lt;br&gt;- numero di telefono&lt;br&gt;- data di assunzione&lt;br&gt;- note&lt;br&gt;- username&lt;br&gt;- password&lt;br&gt;- id univoco" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="JeV1txEWlBGmem2Ouphh-9">
+        <mxCell id="MB48RITWyxrm8_n9HD4J-6" value="- nome&lt;br&gt;- cognome&lt;br&gt;- data di nascita&lt;br&gt;- sesso&lt;br&gt;- email&lt;br&gt;- numero di telefono&lt;br&gt;- data di assunzione&lt;br&gt;- note&lt;br&gt;- username&lt;br&gt;- password&lt;br&gt;- id univoco" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="JeV1txEWlBGmem2Ouphh-9">
           <mxGeometry y="30" width="160" height="180" as="geometry" />
         </mxCell>
         <mxCell id="JeV1txEWlBGmem2Ouphh-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="JeV1txEWlBGmem2Ouphh-10" target="JeV1txEWlBGmem2Ouphh-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JeV1txEWlBGmem2Ouphh-10" value="ADMIN" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="640" y="160" width="160" height="120" as="geometry" />
+          <mxGeometry x="640" y="160" width="160" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="MB48RITWyxrm8_n9HD4J-7" value="- username&lt;br&gt;- password" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="JeV1txEWlBGmem2Ouphh-10">
-          <mxGeometry y="30" width="160" height="90" as="geometry" />
+        <mxCell id="MB48RITWyxrm8_n9HD4J-7" value="- nome&lt;br&gt;- cognome&lt;br&gt;- data di nascita&lt;br&gt;- sesso&lt;br&gt;- email&lt;br&gt;- numero di telefono&lt;br&gt;- contatto emergenza&lt;br&gt;- username&lt;br&gt;- password" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="JeV1txEWlBGmem2Ouphh-10">
+          <mxGeometry y="30" width="160" height="180" as="geometry" />
         </mxCell>
         <mxCell id="JeV1txEWlBGmem2Ouphh-17" value="CAMERA/ALLOGGIO" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="167" y="720" width="306" height="120" as="geometry" />
