@@ -1,5 +1,5 @@
 # ProgWebGruppo3
-Applicazione Web Booking Engine (Programmazione Web DISIM)
+Applicazione Web Booking Engine (Programmazione Web DISIM UnivAQ)
 
 ### Breve descrizione:
 Il Booking Engine è un software che consente agli utenti che si collegano al sito web della struttura ricettiva di consultare in tempo reale la disponibilità delle camere, le tariffe, e successivamente di prenotare in autonomia il soggiorno, fornendo i dati della propria carta di credito a garanzia.
