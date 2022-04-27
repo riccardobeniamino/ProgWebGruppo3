@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-27T16:03:04.974Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="VEekbMeMUs2jz8jXCvVL" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-27T16:06:31.480Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="EGaGNmgZ8_Trd0eJce6a" version="17.4.6" type="github">
   <diagram id="Lk_EI4CYU3kLC5U5zO_d" name="Page-1">
     <mxGraphModel dx="1038" dy="553" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -139,7 +139,7 @@
         <mxCell id="l8wX_0Qu8CBymqKlJUEb-26" value="pagata tramite" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="220" y="670" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="l8wX_0Qu8CBymqKlJUEb-33" value="" style="triangle;whiteSpace=wrap;html=1;direction=south;fillColor=#000000;" vertex="1" parent="1">
+        <mxCell id="l8wX_0Qu8CBymqKlJUEb-33" value="" style="triangle;whiteSpace=wrap;html=1;direction=south;fillColor=#000000;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="330" y="550" width="10" height="20" as="geometry" />
         </mxCell>
         <mxCell id="l8wX_0Qu8CBymqKlJUEb-34" value="riferita_a" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
