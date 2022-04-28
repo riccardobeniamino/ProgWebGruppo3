@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-28T14:05:25.213Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36" etag="PhgTnzerpGhTjAy7cfGD" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-28T15:18:37.964Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36" etag="6XqJAfhQuBFqYyvbTChp" version="17.4.6" type="github">
   <diagram id="Lk_EI4CYU3kLC5U5zO_d" name="Page-1">
     <mxGraphModel dx="1038" dy="553" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -14,14 +14,6 @@
         </mxCell>
         <mxCell id="l8wX_0Qu8CBymqKlJUEb-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="JeV1txEWlBGmem2Ouphh-8" target="JeV1txEWlBGmem2Ouphh-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="JeV1txEWlBGmem2Ouphh-8" value="UtenteRegistrato" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=1;dashed=0;align=center;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="143" y="266" width="160" height="183" as="geometry">
-            <mxRectangle x="240" y="160" width="180" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MB48RITWyxrm8_n9HD4J-2" value="- password&lt;br&gt;- id univoco&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="JeV1txEWlBGmem2Ouphh-8" vertex="1">
-          <mxGeometry y="30" width="160" height="153" as="geometry" />
         </mxCell>
         <mxCell id="l8wX_0Qu8CBymqKlJUEb-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="JeV1txEWlBGmem2Ouphh-9" target="JeV1txEWlBGmem2Ouphh-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -44,13 +36,13 @@
         <mxCell id="JeV1txEWlBGmem2Ouphh-17" value="CameraAlloggio" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=1;dashed=0;align=center;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="476" y="831" width="306" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="l8wX_0Qu8CBymqKlJUEb-41" value="- numero&lt;br&gt;- tipo&amp;nbsp;&lt;br&gt;- piano&lt;br&gt;- categoria&lt;br&gt;- dettagli&lt;br&gt;- vista&lt;br&gt;- stato (manutenzione/vendibile)" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="JeV1txEWlBGmem2Ouphh-17" vertex="1">
+        <mxCell id="l8wX_0Qu8CBymqKlJUEb-41" value="- numero&lt;br&gt;- tipo&amp;nbsp;&lt;br&gt;- piano&lt;br&gt;- categoria&lt;br&gt;- dettagli&lt;br&gt;- vista&lt;br&gt;- stato (prenotabile/manutenzione)" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="JeV1txEWlBGmem2Ouphh-17" vertex="1">
           <mxGeometry y="30" width="306" height="130" as="geometry" />
         </mxCell>
         <mxCell id="l8wX_0Qu8CBymqKlJUEb-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="JeV1txEWlBGmem2Ouphh-18" target="JeV1txEWlBGmem2Ouphh-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JeV1txEWlBGmem2Ouphh-18" value="CalendarioDisposnibilita&#39;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=1;dashed=0;align=center;gradientColor=none;" parent="1" vertex="1">
+        <mxCell id="JeV1txEWlBGmem2Ouphh-18" value="CalendarioDisponibilita&#39;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=1;dashed=0;align=center;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="449" y="631" width="360" height="120" as="geometry">
             <mxRectangle x="440" y="520" width="180" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -61,7 +53,7 @@
         <mxCell id="JeV1txEWlBGmem2Ouphh-80" value="Prenotazione" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=1;dashed=0;align=center;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="89" y="611" width="225" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="l8wX_0Qu8CBymqKlJUEb-43" value="- data check in&lt;br&gt;- data check out&lt;br&gt;- data prenotazione&lt;br&gt;- stato (attiva/cancellata/overbooking)&lt;br&gt;- numero adulti&lt;br&gt;- numero bimbi&lt;br&gt;- eta&#39; bimbi" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="JeV1txEWlBGmem2Ouphh-80" vertex="1">
+        <mxCell id="l8wX_0Qu8CBymqKlJUEb-43" value="- numero occupanti&lt;br&gt;- stato (attiva/cancellata/overbooking)" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="JeV1txEWlBGmem2Ouphh-80" vertex="1">
           <mxGeometry y="30" width="225" height="110" as="geometry" />
         </mxCell>
         <mxCell id="l8wX_0Qu8CBymqKlJUEb-3" value="" style="triangle;whiteSpace=wrap;html=1;direction=south;fillColor=#000000;" parent="1" vertex="1">
@@ -168,6 +160,14 @@
         </mxCell>
         <mxCell id="fF6uDWlk83DuF6IXU6-m-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.593;entryY=-0.001;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" parent="1" source="MB48RITWyxrm8_n9HD4J-2" target="JeV1txEWlBGmem2Ouphh-80" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JeV1txEWlBGmem2Ouphh-8" value="UtenteRegistrato" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=1;dashed=0;align=center;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="143" y="266" width="160" height="160" as="geometry">
+            <mxRectangle x="240" y="160" width="180" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MB48RITWyxrm8_n9HD4J-2" value="- password&lt;br&gt;- id univoco&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="JeV1txEWlBGmem2Ouphh-8" vertex="1">
+          <mxGeometry y="30" width="160" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
