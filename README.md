@@ -1,10 +1,10 @@
-## myBooking (Programmazione Web DISIM UnivAQ)
+# myBooking
 
 Questo progetto nasce con lo scopo di replicare in piccola scala una applicazione web di tipo booking engine.
 
-Il Booking Engine è un software che consente agli utenti che si collegano al sito web della struttura ricettiva di consultare in tempo reale la disponibilità delle camere, le tariffe, e successivamente di prenotare in autonomia il soggiorno, fornendo i dati della propria carta di credito a garanzia. In questo caso, per semplicita' si è selezionato come target quello dei B&B.
+Il Booking Engine è un software che consente agli utenti che si collegano al sito web della struttura ricettiva di consultare comodamente, in tempo reale la disponibilità delle camere, le tariffe, e successivamente di prenotare in autonomia il soggiorno, fornendo i dati della propria carta di credito a garanzia. In questo caso, per semplicità si è selezionato come target quello dei B&B.
 
-### Tipologie di utenti:
+## Tipologie di utenti:
 
 |Utente non registrato|Utente registrato|Receptionist|Amministratore|
 |---|---|---|---|
@@ -16,3 +16,5 @@ Il Booking Engine è un software che consente agli utenti che si collegano al si
 
 ### Integrazione:
 - Possibiltà di effettuare sconti ad esempio sette notti al prezzo di sei, oppure bimbo zero-due anni gratis.
+
+###### Gruppo 3 (Programmazione Web DISIM UnivAQ)
