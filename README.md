@@ -1,5 +1,7 @@
 # myBooking
 
+![GUI ricerca](https://github.com/riccardobeniamino/ProgWebGruppo3/blob/main/Documentazione/ricercaGUI.png)
+
 Questo progetto nasce con lo scopo di replicare in piccola scala una applicazione web di tipo booking engine.
 
 Il Booking Engine è un software che consente agli utenti che si collegano al sito web della struttura ricettiva di consultare comodamente, in tempo reale la disponibilità delle camere, le tariffe, e successivamente di prenotare in autonomia il soggiorno, fornendo, ad esempio i dati della propria carta di credito, a garanzia. In questo caso, per semplicità si è selezionato come target quello dei B&B.
@@ -24,8 +26,8 @@ Ha il compito di controllare le prenotazioni, impostare prezzi giornalieri e sco
 - Admin:
 Controlla tutti i tipi di utenti. Ha a disposizione tutte le funzionalità dell'utente Receptionist. Ha la possibilità di gestire il database e fare manutenzione.
 
-## Esempio interfaccia grafica:
-![GUI](https://github.com/riccardobeniamino/ProgWebGruppo3/blob/main/Documentazione/UtenteNonRegistratoGUI.drawio.png)
+## Contesto interfaccia grafica:
+![GUI sito web](https://github.com/riccardobeniamino/ProgWebGruppo3/blob/main/Documentazione/UtenteNonRegistratoGUI.drawio.png)
 
 ###### Integrazione: Possibiltà di effettuare sconti ad esempio sette notti al prezzo di sei, oppure bimbo zero-due anni gratis.
 ###### Gruppo 3 (Programmazione Web DISIM UnivAQ)
