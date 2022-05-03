@@ -12,8 +12,11 @@ Il Booking Engine è un software che consente agli utenti che si collegano al si
 |Può vedere disponibilità e offerta|Può fare la prenotazione|Carica l'offerta aggiornata||
 
 - Utenti non registrati:
-Possono effettuare la ricerca all'interno dell'applicazione, fornendo le date di arrivo e partenza e numero componenti adulti e bambini.
-Una volta fatta la ricerca possono vedere dettagli, prezzi ed eventuali sconti relativi alle camere corrispondenti.
+Possono effettuare la ricerca all'interno dell'applicazione, fornendo: date di arrivo e partenza, numero componenti adulti e bambini, numero camere.
+Una volta fatta la ricerca possono vedere dettagli, prezzi ed eventuali sconti relativi alle camere corrispondenti. Possono registrarsi per ottenere le funzionalità deigli utenti registrati.
+
+- Utenti registrati:
+Hanno accesso a tutte le funzionalità degli utenti non registrati ed inoltre possono effeuare la prenotazione, selezionando un metodo di pagamento.
 
 ### Funzionalità previste:
 - Possibilità di caricare i dati della struttura ricettiva quali numero stanze, caratteristiche e foto di ognuna;
