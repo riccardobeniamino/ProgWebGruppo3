@@ -2,17 +2,7 @@
 
 Questo progetto nasce con lo scopo di replicare in piccola scala una applicazione web di tipo booking engine.
 
-Il Booking Engine è un software che consente agli utenti che si collegano al sito web della struttura ricettiva di consultare in tempo reale la disponibilità delle camere, le tariffe, e successivamente di prenotare in autonomia il soggiorno, fornendo i dati della propria carta di credito a garanzia.
-
-Il Booking Engine è un sistema di prenotazione online che trasforma il sito web in un canale di vendita diretta per fidelizzare i clienti. Disporre di un booking engine caratterizzato dalla semplicità di lettura e dalla velocità di gestione e di risposta, riduce i tempi di management e consente a uno staff ridotto di operare con efficacia. Per aumentare la produttività lo strumento deve essere stabile, intuitivo e supportare l'utente in ogni fase dell'acquisto. Il sistema deve essere accessibile da tutti i dispositivi di prenotazione, quali mobile, laptop e desktop.
-
-Perché una struttura dovrebbe utilizzare un booking engine:  
-- Vendita diretta a zero commissioni;  
-- Fidelizzazione dei clienti;  
-- Riduzione dei tempi di lavoro;  
-- Aumento delle prenotazioni;
-
-In questo caso si è selezionato come target quello dei B&B per evitare dettagli non strettamente correlati alla progettazione software nel caso di Hotel.
+Il Booking Engine è un software che consente agli utenti che si collegano al sito web della struttura ricettiva di consultare in tempo reale la disponibilità delle camere, le tariffe, e successivamente di prenotare in autonomia il soggiorno, fornendo i dati della propria carta di credito a garanzia. In questo caso, per semplicita' si è selezionato come target quello dei B&B.
 
 ### Tipologie di utenti:
 
