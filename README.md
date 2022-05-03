@@ -16,7 +16,7 @@ Possono effettuare la ricerca all'interno dell'applicazione, fornendo: date di a
 Una volta fatta la ricerca possono vedere dettagli, prezzi ed eventuali sconti relativi alle camere corrispondenti. Possono registrarsi per ottenere le funzionalità deigli utenti registrati.
 
 - Utenti registrati:
-Hanno accesso a tutte le funzionalità degli utenti non registrati ed inoltre possono effeuare la prenotazione, selezionando un metodo di pagamento.
+Hanno accesso a tutte le funzionalità degli utenti non registrati ed inoltre possono effeuare la prenotazione, selezionando un metodo di pagamento. Hanno la possibiltà di modificare o canellare la prenotazione in un determinato lasso di tempo.
 
 ### Funzionalità previste:
 - Possibilità di caricare i dati della struttura ricettiva quali numero stanze, caratteristiche e foto di ognuna;
