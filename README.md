@@ -24,5 +24,8 @@ Ha il compito di controllare le prenotazioni, impostare prezzi giornalieri e sco
 - Admin:
 Controlla tutti i tipi di utenti. Ha a disposizione tutte le funzionalità dell'utente Receptionist. Ha la possibilità di gestire il database e fare manutenzione.
 
+## Esempio interfaccia grafica:
+![GUI](https://github.com/riccardobeniamino/ProgWebGruppo3/blob/main/Documentazione/UtenteNonRegistratoGUI.drawio.png)
+
 ###### Integrazione: Possibiltà di effettuare sconti ad esempio sette notti al prezzo di sei, oppure bimbo zero-due anni gratis.
 ###### Gruppo 3 (Programmazione Web DISIM UnivAQ)
