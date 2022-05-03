@@ -18,8 +18,11 @@ Una volta fatta la ricerca possono vedere dettagli, prezzi ed eventuali sconti r
 - Utenti registrati:
 Hanno accesso a tutte le funzionalità degli utenti non registrati ed inoltre possono effeuare la prenotazione, selezionando un metodo di pagamento. Hanno la possibiltà di modificare o canellare la prenotazione in un determinato lasso di tempo.
 
-### Funzionalità previste:
-- Possibilità di caricare i dati della struttura ricettiva quali numero stanze, caratteristiche e foto di ognuna;
+- Receptionist:
+Ha il compito di controllare le prenotazioni, prezzi giornalieri, arrivi e partenze. Gestione overbooking. Gestisce le camere disponibili in un calendario di disponibilità. Ad esempio se un ospite prenota una stanza via telefono, l'utente receptionist deve levare la stanza dal calendario. Se un ospite prenota dalla applicazione sarà l'agoritmo a modificare il calendario. Carica e modifica i dati della struttura ricettiva quali numero stanze, stato delle stanze, caratteristiche e foto di ognuna.
+
+- Admin:
+Gestisce tutti i tipi di utenti tranne i non registrati. Ha a disposizione tutte le funzionalità dell'utente Receptionist. Ha la possibilità di gestire il database e fare manutenzione.
 
 ### Integrazione:
 - Possibiltà di effettuare sconti ad esempio sette notti al prezzo di sei, oppure bimbo zero-due anni gratis.
