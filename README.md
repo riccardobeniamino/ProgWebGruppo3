@@ -26,6 +26,9 @@ Ha il compito di controllare le prenotazioni, impostare prezzi giornalieri e sco
 - Admin:
 Controlla tutti i tipi di utenti. Ha a disposizione tutte le funzionalità dell'utente Receptionist. Ha la possibilità di gestire il database e fare manutenzione.
 
+## Modello concettuale:
+![modello concettuale](https://github.com/riccardobeniamino/ProgWebGruppo3/blob/main/Documentazione/ModelloConcettuale3.drawio.png)
+
 ## Contesto interfaccia grafica:
 ![GUI sito web](https://github.com/riccardobeniamino/ProgWebGruppo3/blob/main/Documentazione/GUI/UtenteNonRegistratoGUI.drawio.png)
 
